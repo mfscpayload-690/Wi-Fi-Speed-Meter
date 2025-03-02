@@ -11,13 +11,14 @@ A simple Python program to measure network download and upload speeds in Mbps.
 
 **🛠️ Installation:**
 
-_Clone the repository_: git clone https://github.com/mfscpayload-690/Wi-Fi-Speed-Meter.git  
-cd Wi-Fi-Speed-Meter  
-_Install dependencies_: pip install speedtest-cli
+_Clone the repository_: `git clone https://github.com/mfscpayload-690/Wi-Fi-Speed-Meter.git`
+`cd Wi-Fi-Speed-Meter`
+
+_Install dependencies_: `pip install speedtest-cli`
 
 **▶️ Usage:**
 
-_Run the script using_: python WiFi_Speed_Analyzer.py  
+_Run the script using_: `python WiFi_Speed_Analyzer.py`
 
 The program will analyze your network speed and display:
 Download Speed (Mbps) 🚀
@@ -38,3 +39,7 @@ Upload Speed: 42.78 Mbps (👍 Good)
 
 **📜 License**
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+**Contributors:**  
+🐧 *Inspired by the spirit of Linux and open-source philosophy*  
+🚀 **mfscpayload-690** (Developer)  
